@@ -6,7 +6,6 @@ This is a sample Spring Boot project with some basic configuration and dependenc
 When running you will have the following URLs available on your local host:
 
 * Sample endpoints:
-  * http://localhost:8080/balance
   * http://localhost:8080/balance?accountNumber=1234
 
 * Actuator:
@@ -27,7 +26,6 @@ Este é um projeto de exemplo do Spring Boot com algumas configurações e depen
 Ao executar terá disponível as seguintes URLs em sua máquina local:
 
 * Endpoints exemplo:
-  * http://localhost:8080/balance
   * http://localhost:8080/balance?accountNumber=1234
 
 * Actuator:
