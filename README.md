@@ -1,6 +1,6 @@
 # spring-boot-sample-api
 
-## US
+## English
 This is a sample Spring Boot project with some basic configuration and dependencies to get your projects started.
 
 When running you will have the following URLs available on your local host:
@@ -20,7 +20,7 @@ When running you will have the following URLs available on your local host:
 * Spring OpenAPI
 * Lombok
 
-## PT
+## Português
 Este é um projeto de exemplo do Spring Boot com algumas configurações e dependências básicas para iniciar seus projetos.
 
 Ao executar terá disponível as seguintes URLs em sua máquina local:
